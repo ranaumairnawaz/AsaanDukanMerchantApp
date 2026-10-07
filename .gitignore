@@ -1,0 +1,74 @@
+﻿# Dependencies
+node_modules/
+vendor/
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.backup
+
+# Large binary files
+*.zip
+*.rar
+*.tar
+*.gz
+*.7z
+*.exe
+*.msi
+*.mp4
+*.mp3
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.iso
+*.dmg
+*.pkg
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.idea/
+.vscode/
+*.suo
+*.user
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log*
+
+# PHP specific
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+storage/logs/
+bootstrap/cache/
+.phpunit.result.cache
+
+# Upload folders (user-generated content)
+uploads/
+public/uploads/
+public/storage/
+public/hot/
+
+# Word docs, PDFs, etc.
+*.docx
+*.doc
+*.pdf
+*.pptx
+*.xlsx
+
+# Misc scratch files
+*.bak
+*.tmp

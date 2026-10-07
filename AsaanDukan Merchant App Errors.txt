@@ -1,0 +1,9 @@
+AsaanDukan Merchant App Errors
+1. Orders page showing blank
+2. Create Coupon not working (URL is not defined)
+3. Theme Page Blank (getTheme is not a function)
+4. Create Section not working (URL is not defined)
+5. Domain Page Blank (getDomain is not a function)
+6. Staff Page error (getStaff is not a function)
+7. Billing Page error (getBilling not a function)
+8. Store Setting (Delivery Charge field not present while it is required to save the settings)

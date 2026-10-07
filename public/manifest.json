@@ -1,0 +1,52 @@
+{
+  "short_name": "Asaan Dukan",
+  "name": "Asaan Dukan Merchant Portal",
+  "description": "Manage your online store — products, orders, coupons and more.",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#0B1526",
+  "theme_color": "#1A6B3A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": [
+    "business",
+    "shopping"
+  ],
+  "lang": "en-PK",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "screenshots": [
+    {
+      "src": "/screenshots/1.png",
+      "sizes": "1000x2165",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/screenshots/2.png",
+      "sizes": "1000x2165",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/screenshots/3.png",
+      "sizes": "1000x2165",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}

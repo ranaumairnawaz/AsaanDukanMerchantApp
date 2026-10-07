@@ -1,0 +1,6 @@
+{
+  "name": "AssanDukan Merchant Portal",
+  "description": "A mobile-first, native-look merchant app for AssanDukan store owners to manage products, orders, coupons, settings, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
